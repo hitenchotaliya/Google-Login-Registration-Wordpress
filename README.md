@@ -1,5 +1,6 @@
 # Google-Login-Registration-Wordpress
 This plugin allow you to login with google.
+**Switch to master**
 
 **Update Your ClientID and ClientSecret if you dont have then follow below steps:**
 Here are the step-by-step instructions:
